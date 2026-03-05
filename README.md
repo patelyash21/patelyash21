@@ -1,16 +1,19 @@
-## Hi there 👋
+ # 👋 Hi, I'm [YASH PATEL]!
+🌱 I’m currently learning: **[coding languages]**
+📫 How to reach me: **[https://www.linkedin.com/in/yash-patel/yp26859@gmail.com]**
 
-<!--
-**patelyash21/patelyash21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Tech Stack
+<!-- Add your tech icons here, e.g., from skillicons.dev -->
+<img src="https://skillicons.dev" />
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
+<!-- Replace 'yourusername' with your actual username -->
+[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Current Goal
+<!-- Optional: Add a,streak or trophy -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com)](https://git.io)
+
+
+---
